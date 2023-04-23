@@ -1,0 +1,377 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"return"
+			],
+			[
+				"al",
+				"aleatorio"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"se",
+				"secretos"
+			],
+			[
+				"cont",
+				"contrasenhaRegistrada"
+			],
+			[
+				"ini",
+				"inicioDeSesionRegistrado"
+			],
+			[
+				"c",
+				"contador"
+			],
+			[
+				"num",
+				"numeropensado"
+			],
+			[
+				"med",
+				"mediaedades"
+			],
+			[
+				"pr",
+				"prompt"
+			],
+			[
+				"me",
+				"mediaedad"
+			],
+			[
+				"eda",
+				"edadhija"
+			],
+			[
+				"numero",
+				"numeroaceptado"
+			],
+			[
+				"nume",
+				"numeroaceptado"
+			],
+			[
+				"puntos",
+				"puntostotal"
+			],
+			[
+				"pu",
+				"puntostotal"
+			],
+			[
+				"em",
+				"empates"
+			],
+			[
+				"a",
+				"alturainformada"
+			],
+			[
+				"im",
+				"imccalculado"
+			],
+			[
+				"imc",
+				"imc2"
+			],
+			[
+				"calculo",
+				"calculoimc"
+			],
+			[
+				"dife",
+				"diferenciaedad"
+			],
+			[
+				"i",
+				"imprimir"
+			],
+			[
+				"sa",
+				"saltarLinea"
+			],
+			[
+				"rec",
+				"recorrido"
+			],
+			[
+				"nom",
+				"nombre3"
+			],
+			[
+				"nombre",
+				"nombre1"
+			],
+			[
+				"Jimea",
+				"edadJimena"
+			],
+			[
+				"ed",
+				"edadMaria"
+			],
+			[
+				"p",
+				"promedio"
+			],
+			[
+				"t",
+				"tiene"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ter",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"termi",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"terminus",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/emanuel/Descargas/Egg ejercicios"
+	],
+	"file_history":
+	[
+		"/home/emanuel/Descargas/Oracle/logicadeprogamacion/juegosecreto-v3.html",
+		"/home/emanuel/Descargas/Oracle/logicadeprogamacion/anho_mundial_fifa.html",
+		"/home/emanuel/Descargas/Oracle/logicadeprogamacion/Ingredientes.html",
+		"/home/emanuel/Descargas/Oracle/logicadeprogamacion/juegosecreto-v2.html",
+		"/home/emanuel/Descargas/Oracle/logicadeprogamacion/tabla de multiplicar.html",
+		"/home/emanuel/Descargas/Oracle/logicadeprogamacion/programa.html",
+		"/home/emanuel/Descargas/Oracle/logicadeprogamacion/primer_test.html",
+		"/home/emanuel/Descargas/Oracle/logicadeprogamacion/paresdel1al100.html",
+		"/home/emanuel/Descargas/Oracle/logicadeprogamacion/media-edad-media.html",
+		"/home/emanuel/Descargas/Oracle/logicadeprogamacion/Loteria.html",
+		"/home/emanuel/Descargas/Oracle/logicadeprogamacion/licencia.html",
+		"/home/emanuel/Descargas/Oracle/logicadeprogamacion/juegosecreto.html",
+		"/home/emanuel/Descargas/Oracle/logicadeprogamacion/juegodeadivinanza.html",
+		"/home/emanuel/Descargas/Oracle/logicadeprogamacion/Iniciodesesion.html",
+		"/home/emanuel/Descargas/Oracle/logicadeprogamacion/imc.html",
+		"/home/emanuel/Descargas/Oracle/logicadeprogamacion/Estrellas.html",
+		"/home/emanuel/Descargas/Oracle/logicadeprogamacion/ejemplo1.html",
+		"/home/emanuel/Descargas/Oracle/logicadeprogamacion/ejemplo.html",
+		"/home/emanuel/Descargas/Oracle/logicadeprogamacion/calculo_consumo.html",
+		"/home/emanuel/Descargas/Oracle/logicadeprogamacion/diferenciaEdad.html",
+		"/home/emanuel/Descargas/Oracle/logicadeprogamacion/logicadeprogramacion2/Iniciodesesion.html",
+		"/home/emanuel/Descargas/Oracle/logicadeprogamacion/logicadeprogramacion2/juegosecreto.html",
+		"/home/emanuel/Descargas/Oracle/logicadeprogamacion/logicadeprogramacion2/juegodeadivinanza.html",
+		"/home/emanuel/Descargas/Oracle/logicadeprogamacion/logicadeprogramacion2/Estrellas.html",
+		"/home/emanuel/Descargas/Oracle/logicadeprogamacion/logicadeprogramacion2/paresdel1al100.html",
+		"/home/emanuel/Descargas/Oracle/logicadeprogamacion/logicadeprogramacion2/media-edad-media.html",
+		"/home/emanuel/Descargas/Oracle/logicadeprogamacion/logicadeprogramacion2/Loteria.html",
+		"/home/emanuel/Descargas/Oracle/logicadeprogamacion/logicadeprogramacion2/tabla de multiplicar.html",
+		"/home/emanuel/Descargas/Oracle/logicadeprogamacion/logicadeprogramacion2/anho_mundial_fifa.html",
+		"/home/emanuel/Descargas/Oracle/logicadeprogamacion/logicadeprogramacion2/futbol.html",
+		"/home/emanuel/Descargas/Oracle/logicadeprogamacion/logicadeprogramacion2/primer_test.html",
+		"/home/emanuel/Descargas/Oracle/logicadeprogamacion/logicadeprogramacion2/programa.html",
+		"/home/emanuel/Descargas/Oracle/logicadeprogamacion/logicadeprogramacion2/licencia.html",
+		"/home/emanuel/Descargas/Oracle/logicadeprogamacion/logicadeprogramacion2/imc.html",
+		"/home/emanuel/Descargas/logica_progamacion_parte1-aula2/1644-Logica de Programacion_Primeros Pasos-aula2/programa.html",
+		"/home/emanuel/Descargas/logica_progamacion_parte1-aula2/1644-Logica de Programacion_Primeros Pasos-aula2/imc.html",
+		"/home/emanuel/Descargas/logica_progamacion_parte1-aula2/1644-Logica de Programacion_Primeros Pasos-aula2/diferenciaEdad.html",
+		"/home/emanuel/Descargas/logica_progamacion_parte1-aula2/1644-Logica de Programacion_Primeros Pasos-aula2/calculo_consumo.html",
+		"/home/emanuel/Descargas/logica_progamacion_parte1-aula2/1644-Logica de Programacion_Primeros Pasos-aula2/ejemplo.html",
+		"/home/emanuel/Descargas/Oracle/logica_progamacion_parte1-aula2/1644-Logica de Programacion_Primeros Pasos-aula2/imc.html",
+		"/home/emanuel/Descargas/logica_progamacion_parte1-aula2/1644-Logica de Programacion_Primeros Pasos-aula2/ejemplo1.html",
+		"/home/emanuel/Descargas/logica-0racle/primer.text.html",
+		"/home/emanuel/Descargas/logica-0racle/secondtext.html"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"¿Cuántos años de diferencia tienes con tu hermano? Escribe un programa que muestre el mensaje ¨Nuestra diferencia de edad es¨, concatenando el resultado de la diferencia de tu edad con la de tu hermano (o de un amigo). La respuesta puede dar negativa, sin duda. No olvides de usar las funciones saltarLinea e imprimir y de incluir la etiqueta <meta> para resolver problemas de acentuación. No necesitas enviar la respuesta, solo basta crear un programa, probar y verificar si todo funciona. ¡Si tienes alguna duda no dejes de postearla en el foro!",
+			"document.write(\"Juan tiene: \" + (anho-2000) + \" años\")\n     saltarLinea()\n\n\tdocument.write(\"pedro tiene: \" + (anho-2005) + \" años\")\n\tanho=2005\n\tsaltarLinea()\n\n\tdocument.write(\"carlos tiene: \" + (anho-1995) + \" años\")\n\t\n\tanho=2020\n     saltarLinea()\n\n\tdocument.write(\"jimena tiene: \" + (anho-2000) + \" años\")\n\tsaltarlinea()\n\n\tdocument.write(\"maria tiene: \" + (anho-1995) + \" años\")\n    saltarLinea()\n\n\tdocument.write(\"laura tiene: \" + (anho-2005) + \" años\")\n    saltarLinea()\n"
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Terminus":
+	{
+		"height": 130.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Holamundo.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Descargas/Oracle/logicadeprogamacion/logicadeprogramacion2/licencia.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 233.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

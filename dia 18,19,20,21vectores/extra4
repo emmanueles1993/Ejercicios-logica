@@ -1,0 +1,46 @@
+////Crear un vector que contenga 100 notas de 100 supuestos estudiantes, con valores entre 0 y
+////20 generadas aleatoriamente mediante el uso de la función azar() o aleatorio() de PseInt.
+////Luego, de acuerdo a las notas contenidas, el programa debe indicar cuántos estudiantes son:
+////	a) Deficientes 0-5
+////	b) Regulares 6-10
+////	c) Buenos 11-15
+////	d) Excelentes 16-20
+
+Algoritmo notasEst
+	
+	definir vectorEst,i,j,Deficientes,Regulares,Buenos,Excelentes Como Entero
+	Dimension vectorEst(100)
+	
+	i=0
+	j=0
+	Deficientes=0
+	Regulares = 0
+	Buenos = 0
+	Excelentes=0
+	Mientras i < 100 Hacer
+		vectorEst(i)=Aleatorio(0,20)
+	Fin Mientras
+	
+	Para j <- 0 Hasta 99 Con Paso 1 Hacer		
+		//	a) Deficientes 0-5
+		si vectorEst(j) >= 0 y vectorEst(j) <= 5 Entonces
+			Deficientes = Deficientes+1
+		SiNo
+			//	b) Regulares 6-10
+			si vectorEst(j) >= 6 y vectorEst(j) <= 10 Entonces
+				Regulares = Regulares +1
+			SiNo
+				// c) Buenos 11-15
+				si vectorEst(j) >= 11 y vectorEst(j) <= 15 Entonces
+					Buenos =Buenos+1
+				SiNo
+					// d) Excelentes 16-20
+					si vectorEst(j) >= 16 y vectorEst(j) <= 20 Entonces
+						Excelentes=Excelentes+1
+					FinSi
+				FinSi
+			FinSi
+		FinSi
+	Fin Para
+	
+FinAlgoritmo
